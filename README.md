@@ -28,7 +28,7 @@ Within the app, we have set the necessary connections to the both of the service
 
 The image editor uses Photo Editor SDK, which we were given a free license for the remainder of 2018 so that we could use it to complete
 our capstone. The license is set to expire Sunday, December 30 and after that time the image editor will no longer work. We are currently thinking of
-ways around this issue that don't cost us too much because we're very poor and don't like paying a lot for things.
+an alternative to use.
 
 #### Deployment instructions ####
 * Clone the repo onto your desktop
@@ -42,4 +42,4 @@ ways around this issue that don't cost us too much because we're very poor and d
 For more information please contact either of the main project leaders, Jeffrey Jaca or Chris Aziz, at the following emails:
 
 * jeffreyjjaca@gmail.com
-* chrisaziz2112@gmail.com
+* chris.aziz@outlook.com
